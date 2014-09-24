@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.rohan.materialpoc.Start" >
+    <item android:id="@+id/action_keynotes"
+        android:title="@string/action_keynotes"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_toggletheme"
+        android:title="@string/action_toggletheme"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_exit"
+        android:title="@string/action_exit"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+
+</menu>

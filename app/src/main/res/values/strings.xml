@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MaterialPOC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_keynotes">Key Notes</string>
+    <string name="action_toggletheme">Toggle Theme</string>
+    <string name="action_exit">Exit</string>
+    <string name="title_activity_start">Material POC Demos</string>
+
+
+    <string-array name="demos">
+        <item>TheTheme</item>
+        <item>text_string</item>
+        <item>text_string</item>
+        <item>text_string</item>
+        <item>text_string</item>
+        <item>text_string</item>
+    </string-array>
+
+</resources>
