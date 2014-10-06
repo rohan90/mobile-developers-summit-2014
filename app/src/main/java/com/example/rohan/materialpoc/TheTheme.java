@@ -2,16 +2,17 @@ package com.example.rohan.materialpoc;
 
 import android.app.Activity;
 import android.os.Bundle;
-import android.transition.Explode;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.Window;
+import android.transition.Explode;
 
 
 public class TheTheme extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        setTheme(R.style.AppTheme);
         super.onCreate(savedInstanceState);
 
         // inside your activity
